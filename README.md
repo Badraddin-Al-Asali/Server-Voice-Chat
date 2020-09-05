@@ -1,2 +1,2 @@
 # Server-Voice-Chat
-This is the server for the clinet voice chat
+This is the server for the client voice chat program
